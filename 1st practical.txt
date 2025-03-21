@@ -1,0 +1,6 @@
+this is 1st program of git hub
+
+
+commands
+1.git init
+2.
